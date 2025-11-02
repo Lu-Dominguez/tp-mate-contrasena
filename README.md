@@ -99,3 +99,5 @@ Nonce: Número aleatorio usado en AES-GCM para asegurar que cada cifrado sea ún
 Generador de contraseñas: Función que crea contraseñas aleatorias seguras, combinando mayúsculas, minúsculas, números y símbolos.
 
 Medidor de fortaleza: Evalúa qué tan segura es una contraseña según su longitud y la variedad de caracteres que contiene.
+
+Archivo PEM: Formato de archivo que almacena claves criptográficas en texto Base64 con encabezados y pies específicos como (-----BEGIN PUBLIC KEY-----). Tanto claves públicas como privadas pueden estar en PEM.
